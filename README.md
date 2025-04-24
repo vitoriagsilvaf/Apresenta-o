@@ -13,11 +13,11 @@
 
 <br>
 
-<div style="text-align: justify; max-width: 800px; margin: auto; font-family: Arial, sans-serif; line-height: 1.6; font-size: 16px;">
-  <p>
+<div style="max-width: 800px; margin: auto; font-family: Arial, sans-serif; line-height: 1.6; font-size: 16px; text-align: justify;">
+  <p style="text-align: justify;">
     Experiência na criação de desenhos técnicos e modelos 3D para diversos projetos industriais. Ao longo da minha trajetória, desenvolvi habilidades com softwares CAD como <strong>AutoCAD</strong>, <strong>FreeCAD</strong>, <strong>Inventor</strong> e <strong>Rhinoceros</strong>, além de utilizar o <strong>Keyshot</strong> para renderizações realistas e apresentações profissionais de produtos.
   </p>
-  <p>
+  <p style="text-align: justify;">
     Estou entusiasmada em unir minha base sólida em <strong>design mecânico</strong> com a <strong>tecnologia e programação</strong>, buscando soluções inovadoras e funcionais para os desafios da engenharia moderna.
   </p>
 </div>
