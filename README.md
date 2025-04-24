@@ -18,9 +18,6 @@
     Experiência na criação de desenhos técnicos e modelos 3D para diversos projetos industriais. Ao longo da minha trajetória, desenvolvi habilidades com softwares CAD como <strong>AutoCAD</strong>, <strong>FreeCAD</strong>, <strong>Inventor</strong> e <strong>Rhinoceros</strong>, além de utilizar o <strong>Keyshot</strong> para renderizações realistas e apresentações profissionais de produtos.
   </p>
   <p>
-    Recentemente, comecei a explorar o universo da <strong>programação</strong>, com foco em <strong>Python</strong> e <strong>C++</strong>, aplicando esses conhecimentos para <strong>automação de processos</strong> e desenvolvimento de ferramentas personalizadas.
-  </p>
-  <p>
     Estou entusiasmada em unir minha base sólida em <strong>design mecânico</strong> com a <strong>tecnologia e programação</strong>, buscando soluções inovadoras e funcionais para os desafios da engenharia moderna.
   </p>
 </div>
