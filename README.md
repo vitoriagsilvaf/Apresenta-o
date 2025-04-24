@@ -1,31 +1,23 @@
-<div align="center">
+<div align="center" style="text-align: center;">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=ffffff&lines=Olá,+me+chamo+Vitória+Gabriele;Seja+muito+bem-vindo!+🙂" alt="Typing SVG">
+    <img src="https://readme-typing-svg.herokuapp.com/?center=true&vCenter=true&color=ffffff&lines=Olá,%20+me+chamo+Vitória+Gabriele;Seja+muito+bem+vindo!+:)" alt="Typing SVG">
   </a>
 </div>
 
 <div align="center"> 
-  <a href="https://www.instagram.com/seu_usuario_aqui" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="mailto:gabriele.vitoria2459@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/seu_usuario_aqui" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>   
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "gabriele.vitoria2459@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
+
 
 <br>
 
-<div style="text-align: justify; max-width: 800px; margin: auto; font-family: Arial, sans-serif; line-height: 1.6; font-size: 16px;">
-  <p>
+<div style="max-width: 800px; margin: auto; font-family: Arial, sans-serif; line-height: 1.6; font-size: 16px; text-align: justify;">
+  <p style="text-align: justify;">
     Experiência na criação de desenhos técnicos e modelos 3D para diversos projetos industriais. Ao longo da minha trajetória, desenvolvi habilidades com softwares CAD como <strong>AutoCAD</strong>, <strong>FreeCAD</strong>, <strong>Inventor</strong> e <strong>Rhinoceros</strong>, além de utilizar o <strong>Keyshot</strong> para renderizações realistas e apresentações profissionais de produtos.
   </p>
-  <p>
-    Recentemente, comecei a explorar o universo da <strong>programação</strong>, com foco em <strong>Python</strong> e <strong>C++</strong>, aplicando esses conhecimentos para <strong>automação de processos</strong> e desenvolvimento de ferramentas personalizadas.
-  </p>
-  <p>
+  <p style="text-align: justify;">
     Estou entusiasmada em unir minha base sólida em <strong>design mecânico</strong> com a <strong>tecnologia e programação</strong>, buscando soluções inovadoras e funcionais para os desafios da engenharia moderna.
   </p>
 </div>
