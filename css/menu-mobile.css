@@ -1,0 +1,106 @@
+@media (max-width: 768px) {
+  body {
+    background-color: #121212;
+    color: #ffffff;
+  }
+
+  nav {
+    background-color: #1c1c1c;
+    color: white;
+  }
+
+  nav a {
+    color: white;
+  }
+
+  nav a:hover {
+    color: #00d2df;
+  }
+
+  [data-menu="button"] {
+    background-color: #1c1c1c;
+    color: white;
+    border: none;
+  }
+
+  [data-menu="list"] {
+    background-color: #1c1c1c;
+  }
+
+  [data-menu="list"] a {
+    color: white;
+  }
+
+  [data-menu="list"] a:hover {
+    background-color: #292929;
+  }
+
+  section,
+  header,
+  footer {
+    background-color: #1a1a1a;
+  }
+
+  h1, h2, h3, p, span, li {
+    color: white;
+  }
+
+  .principal__botao a div,
+  .sobre-mim__descricao-buttons a div,
+  .projetos__card-button {
+    background-color: #292929;
+    color: white;
+    border: 1px solid #00d2df;
+    padding: 0.6rem 1rem;
+    border-radius: 8px;
+    transition: background 0.3s, color 0.3s;
+  }
+
+  .principal__botao a div:hover,
+  .sobre-mim__descricao-buttons a div:hover,
+  .projetos__card-button:hover {
+    background-color: #00d2df;
+    color: black;
+  }
+
+  .projetos__card {
+    background-color: #1f1f1f;
+    padding: 1rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+  }
+
+  .projeto-img {
+    border-radius: 10px;
+    max-width: 100%;
+  }
+
+  footer {
+    background-color: #121212;
+    color: white;
+    text-align: center;
+    padding: 1rem;
+  }
+
+  .scroll p {
+    color: white;
+  }
+
+  .experiencia__lugares ul li {
+    background-color: #1f1f1f;
+    color: white;
+    padding: 10px;
+    cursor: pointer;
+    border-bottom: 1px solid #333;
+  }
+
+  .experiencia__lugares ul li:hover {
+    background-color: #292929;
+  }
+
+  /* Espaço entre os botões Currículo e E-mail */
+  .sobre-mim__descricao-buttons a {
+    margin-right: 5px; /* Ajuste o valor conforme necessário */
+    justify-content: center;
+  }
+}
